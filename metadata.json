@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Chronicle: Infinite Adventures",
+  "description": "An infinite, AI-driven choose-your-own-adventure engine with consistent visual generation and real-time state tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
